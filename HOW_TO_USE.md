@@ -10,7 +10,7 @@ This guide walks through each part of the app.
 
 ### 1. Sign in
 
-When you first open imprUv, sign in with **Sign in with Apple**. This verifies your identity and enables Pro subscription features. Your account info is stored securely on your device.
+When you first open imprUv, sign in with your **Apple ID**. This verifies your identity and allows you to enable Pro Subscription features. Your account info is stored securely on your device.
 
 ### 2. Pick a session type
 
@@ -49,10 +49,10 @@ Templates define what you track in a session — which activities to log and wha
 
 Built-in templates include:
 
-- **Climbing** — routes, grades, height, falls, completion
-- **Biking** — ride metrics
-- **Hiking** — hike metrics
-- **Weight Training** — lift metrics
+- **Climbing** 
+- **Biking** 
+- **Hiking** 
+- **Weight Training** 
 
 Tap a template card to open a new session.
 
@@ -60,7 +60,7 @@ Tap a template card to open a new session.
 
 When a session starts:
 
-1. **Session name** — Defaults to something like `Climbing, 6/26/25`. If you allow location access, imprUv may replace this with a venue name (e.g. `Planet Granite, 6/26/25`).
+1. **Session name** — Defaults to something like `Climbing, 6/26/25`. If you allow location access, imprUv may replace this with a venue name or address (e.g. `Planet Granite, 6/26/25`).
 2. **Date** — Set the session date.
 3. **Session fields** — Some templates include session-level options (e.g. Indoor vs. Outdoor for climbing).
 
@@ -105,7 +105,7 @@ The session moves to **History** and feeds into **Progress** insights.
 
 ### Resuming a session
 
-If you leave the app mid-session, imprUv will offer to resume your in-progress session when you return.
+If you leave the app mid-session, simply go to the history tab and reopen your last session.
 
 ---
 
